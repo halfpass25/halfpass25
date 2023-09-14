@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)  ![halfpass25's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfpass25&show_icons=true&bg_color=00000000)
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfpass25&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=halfpass25&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
+
+
 
 <!--
 **halfpass25/halfpass25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
