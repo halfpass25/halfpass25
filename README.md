@@ -7,7 +7,7 @@
     
  - 🔭 Sto lavorando su: ERP per PMI (PHP)
 
- - 👯 I’m looking to collaborate on "Il libro Open Source" ( https://github.com/Il-Libro-Open-Source)
+ - 👯 Vorrei contribuire a: "Il libro Open Source" ( https://github.com/Il-Libro-Open-Source)
 
  - :headphones: Now listening: Montefiori Cocktail
 
