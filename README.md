@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 ![halfpass25's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfpass25&show_icons=true&bg_color=00000000)
 
 <!--
