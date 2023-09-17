@@ -1,4 +1,5 @@
-### Ciao! 👋                                                                                                           Mi trovi anche su LinkedIn: www.linkedin.com/in/pasqualealfano
+### Ciao! 👋 
+( mi trovi anche su LinkedIn: www.linkedin.com/in/pasqualealfano )                                                                                                          
 
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfpass25&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
