@@ -1,9 +1,7 @@
 ### Ciao! 👋 
 ( mi trovi anche su LinkedIn: www.linkedin.com/in/pasqualealfano )                                                                                                          
 
-<div>
-  username=halfpass25&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-<div>
+
     
  - 🛠️ Sto sviluppando un tool per rendere visibile e leggibile la capacità operativa dell’azienda (target: PMI, società di consulenza)
 
